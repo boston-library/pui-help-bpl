@@ -14,7 +14,7 @@ Enable the plugin
 Edit `config.rb` and append:
 
 ```
-AppConfig[:plugins] << "pui_help_bpl"
+AppConfig[:plugins] << "pui-help-bpl"
 ```
 Edit the views/help/index.html.erb file as desired to populate your Help page.
 
